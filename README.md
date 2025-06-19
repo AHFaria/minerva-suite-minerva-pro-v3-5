@@ -1,16 +1,10 @@
-# minerva-suite-pro-v3-5
-
-Finalized prompt system for Minerva Pro — a structured executive support tool for clarity, overwhelm, and task guidance.
-
----
-
 ## 📄 Documentation
 
-- [01 – Final Prompt – Minerva Pro v3.5](docs/01-Final-Prompt-Minerva-Pro-v3.5.docx)
-- [02 – Professional Summary – Minerva Pro v3.5](docs/02-Professional-Summary-Minerva-Pro-v3.5.docx)
-- [03 – Prompt Summary Sheet – Minerva Pro v3.5](docs/03-Prompt-Summary-Sheet-Minerva-Pro-v3.5.docx)
-- [04 – Metadata & Version History – Minerva Pro v3.5](docs/04-Metadata-Version-History-Minerva-Pro-v3.5.docx)
-- [05 – Capability Audit – Minerva Pro v3.5](docs/05-Capability-Audit-Minerva-Pro-v3.5.docx)
-- [06 – Full Audit Report – Minerva Pro v3.5](docs/06-Full-Audit-Report-Minerva-Pro-v3.5.docx)
-- [07 – Legal Documentation – Minerva Pro v3.5](docs/07-Legal-Documentation-Minerva-Pro-v3.5.docx)
-- [08 – Change Log – Minerva Pro v3.5](docs/08-Change-Log-Minerva-Pro-v3.5.docx)
+- 🧠 **[Final Prompt](docs/01-minerva-pro-prompt.docx)**
+- 📄 **[Professional Summary](docs/02-professional-summary-minerva.docx)**
+- 🧾 **[Prompt Summary Sheet](docs/03-summary-sheet-minerva.docx)**
+- 🧩 **[Metadata & Version History](docs/04-metadata-minerva.docx)**
+- ✅ **[Capability Audit](docs/05-capability-minerva.docx)**
+- 📋 **[Full Audit Report](docs/06-audit-minerva.docx)**
+- 📜 **[Legal Documentation](docs/07-legal-minerva.docx)**
+- 🔄 **[Change Log](docs/08-changelog-minerva.docx)**
