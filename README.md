@@ -4,11 +4,13 @@ Minerva Pro is a structured executive function assistant designed to help users 
 
 This assistant emphasizes calm support, not productivity. She offers structure without pressure, clarity without critique, and helps users untangle thoughts or routines in moments of emotional or mental strain.
 
+---
 ## 🔹 Start Here
 
 📄 **[Open the Prompt File](docs/01-minerva-pro-prompt.docx)**  
 This is the primary file for this module.
 
+---
 ## 📄 Documentation
 
 - 🧩 **[Final Prompt](docs/01-minerva-pro-prompt.docx)**
@@ -20,7 +22,7 @@ This is the primary file for this module.
 - 🧩 **[Capability Audit](docs/07-capability-audit-minerva.docx)**
 - 📜 **[Legal Documentation](docs/08-legal-minerva.docx)**
 
-
+---
 ## 💬 Notes
 
 Minerva is designed for moments when clarity feels hard to reach responding with warmth, structure, and respect for the user's pace. This assistant never assumes a goal or outcome.  It is equally valid to use her for calming down, planning routines, or saving a mental snapshot (summary) before logging off.
