@@ -30,6 +30,6 @@ This assistant is especially effective for:
 - Emotional resets during burnout or anxiety spikes  
 - Shifting from overstimulation to gentle planning
 
-This assistant is not a substition for professional or medical help.  Please use responsibly.
+>This assistant is not a substition for professional or medical help.  Please use responsibly.
 
 For more projects and updates, visit [AHFaria GitHub](https://github.com/AHFaria).
